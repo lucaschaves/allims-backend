@@ -1,0 +1,11 @@
+RDS_HOSTNAME=allims-dev.cbyts5zkgrsz.sa-east-1.rds.amazonaws.com
+RDS_PORT=5432
+RDS_DB_NAME=allimsDev
+RDS_USERNAME=postgres
+RDS_PASSWORD=ilimsupdate
+
+PORT=4000
+
+SECRET=allims
+
+NODE_ENV=development
